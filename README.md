@@ -23,11 +23,13 @@ Now, let’s dive into our alert and investigate the log using these criteria.
 
 ### Step 1: Investigate the IP Address
 
-For our investigation, we’ll use the IP address `83.222.191.62`.
+For our investigation, we’ll use the IP address `186.48.174.181`.
 
 1. **Check the IP on Abuse IPDB**:
    - Copy the IP address and paste it into Abuse IPDB. This tool will help us determine if the IP is associated with malicious activity.
    - The result indicates that this IP is indeed known for performing brute force attacks.
+
+   ![Alt text]()
 
 2. **Check the IP on GreyNoise**:
    - Next, open GreyNoise and click on Get Started for Free.
