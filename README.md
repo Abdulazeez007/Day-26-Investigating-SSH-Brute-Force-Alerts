@@ -29,7 +29,7 @@ For our investigation, we’ll use the IP address `186.48.174.181`.
    - Copy the IP address and paste it into Abuse IPDB. This tool will help us determine if the IP is associated with malicious activity.
    - The result indicates that this IP is indeed known for performing brute force attacks.
 
-   ![Alt text]()
+   ![Alt text](https://raw.githubusercontent.com/Virus192/Day-26-Investigating-SSH-Brute-Force-Alerts/refs/heads/main/Images/photo_6033101386750739056_w.jpg)
 
 2. **Check the IP on GreyNoise**:
    - Next, open GreyNoise and click on Get Started for Free.
@@ -86,6 +86,8 @@ Now, let’s head over to OS Ticket to manage our newly created alert ticket:
 1. Navigate to the Admin Panel in OS Ticket.
 2. Once you are inside, you should see the ticket for your alert.
 3. Click on the ticket to open it. From here, you can assign the ticket to a specific user, or you can assign it to yourself.
+
+   ![Alt text](https://raw.githubusercontent.com/Virus192/Day-26-Investigating-SSH-Brute-Force-Alerts/refs/heads/main/Images/photo_6033101386750739194_w.jpg)
 
 ## Conclusion
 
